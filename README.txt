@@ -1,0 +1,1 @@
+I developed a chatbot using the OpenAI API, which charges each user around $25 through their respective OpenAI accounts with their respective openai keys. For your convenience create your own openai account and API key and modify "openai.api_key" and "engine" accordingly.
